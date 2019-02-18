@@ -31,14 +31,14 @@ h1, h2, h3
 h2
 { font-size: 160%;
   padding: 9px 0 5px 0;
-  color: #009FBC;}
+  color: #2b5ca9;}
 
 h3
 { font-size: 140%;
   padding: 5px 0 0 0;}
 
 h4, h6
-{ color: #009FBC;
+{ color: #2b5ca9;
   padding: 0 0 5px 0;
   font: normal 110% arial;
   text-transform: uppercase;}
@@ -52,7 +52,7 @@ h5, h6
 a, a:hover
 { outline: none;
   text-decoration: underline;
-  color: #00C6F0;}
+  color: #2b5ca9;}
 
 a:hover
 { text-decoration: none;}
@@ -132,7 +132,7 @@ ol li
   text-decoration: none;}
 
 #logo_text h1 a .logo_colour
-{ color: #00C6F0;}
+{ color: #2b5ca9;}
 
 #logo_text a:hover .logo_colour
 { color: #DDD;}
@@ -176,10 +176,10 @@ ul#menu li.selected a
 
 ul#menu li.selected
 { margin: 8px 4px 0 13px;
-  background: #00C6F0;}
+  background: #2b5ca9;}
 
 ul#menu li.selected a, ul#menu li.selected a:hover
-{ background: #00C6F0;
+{ background: #2b5ca9;
   color: #FFF;}
 
 ul#menu li a:hover
@@ -258,7 +258,7 @@ ul#menu li a:hover
   text-decoration: none;}
 
 #footer a:hover
-{ color: #00C6F0;
+{ color: #2b5ca9;
   text-decoration: none;}
 
 .search
