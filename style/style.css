@@ -111,7 +111,7 @@ ol li
 #logo
 { width: 880px;
   position: relative;
-  height: 140px;
+  height: 110px;
   /*background: #F5F5F5*/;}
 
 #logo #logo_text 
@@ -188,7 +188,7 @@ ul#menu li a:hover
 #site_content
 { width: 880px;
   overflow: hidden;
-  margin: 20px auto 0 auto;
+  margin: 0 auto 0 auto;
   padding: 0 0 10px 0;} 
 
 #sidebar_container
@@ -223,7 +223,7 @@ ul#menu li a:hover
 { margin: 0;} 
 
 #content
-{ text-align: left;
+{ text-align: justify;
   width: 620px;
   padding: 0 0 0 5px;
   float: right;}
